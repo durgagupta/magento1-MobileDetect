@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Uxmill_Uxbase>
+			<active>true</active>
+			<codePool>community</codePool>
+			<version>0.0.1</version>
+		</Uxmill_Uxbase>
+	</modules>
+</config>
